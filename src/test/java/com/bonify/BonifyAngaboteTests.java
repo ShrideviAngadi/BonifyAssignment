@@ -28,6 +28,8 @@ import javax.annotation.Nonnegative;
 import javax.annotation.Nonnull;
 import java.util.List;
 
+
+
 public class BonifyAngaboteTests {
 
     public static final String XPATH_EMAILADDRESS="//div[contains(@class, 'text-field form-group')]//input[contains(@type, 'email')]";
